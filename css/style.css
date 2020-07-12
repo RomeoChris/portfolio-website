@@ -224,7 +224,7 @@ footer .footer-item ul.social-icons li a:hover {
 @media (max-width:767px) {
 
   .banner .left-content {
-    text-align: center;
+    text-align: left;
     height: 400px!important;
   }
 
